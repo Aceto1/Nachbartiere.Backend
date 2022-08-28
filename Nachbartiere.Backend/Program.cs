@@ -74,7 +74,7 @@ namespace Nachbartiere.Backend
             }
             else
             {
-                app.UseHttpsRedirection();
+                // app.UseHttpsRedirection();
                 app.UseHsts();
             }
 
