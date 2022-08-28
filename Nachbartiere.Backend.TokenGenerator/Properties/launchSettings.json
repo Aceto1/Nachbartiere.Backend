@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Nachbartiere.Backend.TokenGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "1"
+    }
+  }
+}
